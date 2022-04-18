@@ -17,9 +17,13 @@ It is distributed under a https://creativecommons.org/licenses/by/4.0/.
 
 ## Authors
 
-A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
+The original Library Carpentry lesson on which this content is based was authored by: 
 
-We would like to acknowledge and thank Clarke Lakovakis for allowing us to use his Introduction to R guide while developing this course.
+- [Amelia Kallaher](https://github.com/ameliakallaher) (Lead) 
+- [Eliza Grames](https://github.com/elizagrames)
+- [Sarah Young](https://github.com/rootsandberries)
+
+We would also like to acknowledge and thank Clarke Lakovakis for allowing us to use his Introduction to R guide while developing this course.
 
 The guide accompanied the first day of instruction for his course at the 2019 FORCE11 Scholarly Communications Institute: “AM4 - Working with Scholarly Literature in R: Pulling, Wrangling, Cleaning, and Analyzing Structured Bibliographic Metadata.” It covers the essentials of what R is. The full guide can be found here: https://ciakovx.github.io/IntroductionToR.html
 
