@@ -15,7 +15,7 @@ Tools like R and Python are becoming increasingly useful in the conduct of syste
 All Software, Data, and Library Carpentry instructional material is made available under the Creative Commons Attribution
 license. Licensed under CC-BY 4.0 2016–2020 by Library Carpentry.
 
-It is distributed under a https://creativecommons.org/licenses/by/4.0/.
+It is distributed under a [Creative Commons 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 
 ## Authors
@@ -29,5 +29,3 @@ The original Library Carpentry lesson on which this content is based was authore
 We would like to acknowledge and thank Clarke Lakovakis for allowing us to use his Introduction to R guide while developing this course.
 
 The guide accompanied the first day of instruction for his course at the 2019 FORCE11 Scholarly Communications Institute: “AM4 - Working with Scholarly Literature in R: Pulling, Wrangling, Cleaning, and Analyzing Structured Bibliographic Metadata.” It covers the essentials of what R is. The full guide can be found here: https://ciakovx.github.io/IntroductionToR.html
-
-It is distributed under a https://creativecommons.org/licenses/by/4.0/.
