@@ -15,10 +15,11 @@ author: Amelia Kallaher and Sarah Young
 
 navbar-links:
   Set Up: "aboutme"
-  Libraries and Packages: "https://beautifuljekyll.com"
-  Reading in data: 
-  Variables and Objects:
-  Reading out data:
+  Lessons:
+    - Packages and libraries: "https://beautifuljekyll.com"
+    - Reading in data: "https://www.markdowntutorial.com/"
+    - Variables and objects:
+    - Reading out data:
   Learn more with litsearchr:
 
 
