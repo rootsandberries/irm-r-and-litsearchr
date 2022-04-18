@@ -16,11 +16,11 @@ author: Amelia Kallaher and Sarah Young
 navbar-links:
   Set Up: "aboutme"
   Lessons:
-    - Introduction to RStudio: "https://rootsandberries.github.io/irm_test_jekyll/01-introduction-to-rstudio"
-    - Create Working Directory: "https://rootsandberries.github.io/irm_test_jekyll/02-create-working-directory"
-    - Importing Data into R: "https://rootsandberries.github.io/irm_test_jekyll/03-importing-data-into-R"
-    - Interacting with R: "https://rootsandberries.github.io/irm_test_jekyll/04-interacting-with-R"
-    - Data Structures: "https://rootsandberries.github.io/irm_test_jekyll/05-data-frames-matrices-and-lists"
+    - Introduction to RStudio: "https://rootsandberries.github.io/irm-r-and-litsearchr/01-introduction-to-rstudio"
+    - Create Working Directory: "https://rootsandberries.github.io/irm-r-and-litsearchr/02-create-working-directory"
+    - Importing Data into R: "https://rootsandberries.github.io/irm-r-and-litsearchr/03-importing-data-into-R"
+    - Interacting with R: "https://rootsandberries.github.io/irm-r-and-litsearchr/04-interacting-with-R"
+    - Data Structures: "https://rootsandberries.github.io/irm-r-and-litsearchr/05-data-frames-matrices-and-lists"
   Learn more with litsearchr: "https://carpentries-incubator.github.io/lc-litsearchr/11-introduction-to-litsearchr/index.html"
   Use the litsearchr GUI: "https://elizagrames.shinyapps.io/litsearchr/"
 
