@@ -22,6 +22,7 @@ navbar-links:
     - Interacting with R: "https://rootsandberries.github.io/irm_test_jekyll/04-interacting-with-R"
     - Data Structures: "https://rootsandberries.github.io/irm_test_jekyll/05-data-frames-matrices-and-lists"
   Learn more with litsearchr: "https://carpentries-incubator.github.io/lc-litsearchr/11-introduction-to-litsearchr/index.html"
+  Use the litsearchr GUI: "https://elizagrames.shinyapps.io/litsearchr/"
 
 
 # --- Colours / background image --- #
