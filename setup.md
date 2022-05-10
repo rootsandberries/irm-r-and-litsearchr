@@ -3,13 +3,17 @@ title: Setup
 ---
 ## Setup instructions
 
+### RStudio Cloud
+
 For the purposes of today's workshop, we'll be using RStudio Cloud. This is a free browser-based application that allows you to run R and RStudio without downloading any software to your computer. To get set up with RStudio Cloud, visit [the RStudio Cloud website](https://rstudio.cloud/) and click on Get Started for Free. Click on Sign Up to create a free RStudio account. Once you've created your account, log in to get started.
 
 If you'd like to run R and RStudio locally on your own machine, you need to install **R** and **RStudio** separately. R is the underlying statistical computing environment, but using R alone is no fun. RStudio is a graphical integrated development environment (IDE) that makes using R much easier and more interactive. You need to install R before you install RStudio. Once installed, because RStudio is an IDE, RStudio will run R in the background.  You do not need to run it separately.
 
-### Windows
+### Using R and RStudio on your own computer
 
-#### If you already have R and RStudio installed
+#### Windows
+
+##### If you already have R and RStudio installed
 
 * Open RStudio, and click on "Help" > "Check for updates". If a new version is
 	available, quit RStudio, and download the latest version for RStudio.
@@ -22,7 +26,7 @@ If you'd like to run R and RStudio locally on your own machine, you need to inst
   it. You can [check here](https://cran.r-project.org/bin/windows/base/rw-FAQ.html#How-do-I-UNinstall-R_003f) for
   more information on how to remove old versions from your system if you wish to do so.
 
-#### If you don't have R and RStudio installed
+##### If you don't have R and RStudio installed
 
 * Download R from
   the [CRAN website](http://cran.r-project.org/bin/windows/base/release.htm).
@@ -35,9 +39,9 @@ If you'd like to run R and RStudio locally on your own machine, you need to inst
   error messages.
 
 
-### macOS
+#### macOS
 
-#### If you already have R and RStudio installed
+##### If you already have R and RStudio installed
 
 * Open RStudio, and click on "Help" > "Check for updates". If a new version is
 	available, quit RStudio, and download the latest version for RStudio.
@@ -47,7 +51,7 @@ If you'd like to run R and RStudio locally on your own machine, you need to inst
   whether a more recent version is available. If so, please download and install
   it.
 
-#### If you don't have R and RStudio installed
+##### If you don't have R and RStudio installed
 
 * Download R from
   the [CRAN website](http://cran.r-project.org/bin/macosx/).
@@ -63,7 +67,7 @@ If you'd like to run R and RStudio locally on your own machine, you need to inst
   error messages.
 
 
-### Linux
+#### Linux
 
 * Follow the instructions for your distribution
   from [CRAN](https://cloud.r-project.org/bin/linux), they provide information
