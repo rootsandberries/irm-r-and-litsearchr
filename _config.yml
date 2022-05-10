@@ -15,13 +15,19 @@ author: Amelia Kallaher and Sarah Young
 
 navbar-links:
   Set Up: "https://rootsandberries.github.io/irm-r-and-litsearchr/set-up"
-  Lessons:
+  R and RStudio Lessons:
     - Introduction to RStudio: "https://rootsandberries.github.io/irm-r-and-litsearchr/01-introduction-to-rstudio"
     - Create Working Directory: "https://rootsandberries.github.io/irm-r-and-litsearchr/02-create-working-directory"
     - Importing Data into R: "https://rootsandberries.github.io/irm-r-and-litsearchr/03-importing-data-into-R"
     - Interacting with R: "https://rootsandberries.github.io/irm-r-and-litsearchr/04-interacting-with-R"
     - Data Structures: "https://rootsandberries.github.io/irm-r-and-litsearchr/05-data-frames-matrices-and-lists"
-  The complete Library Carpentry Lesson: "https://carpentries-incubator.github.io/lc-litsearchr/"
+  litsearchr Lessons: 
+    - Introduction to litsearchr: "https://rootsandberries.github.io/irm-r-and-litsearchr/06-introduction-to-litsearchr"
+    - Importing search results: "https://rootsandberries.github.io/irm-r-and-litsearchr/07-importing-search-results"
+    - Identifying keywords: "https://rootsandberries.github.io/irm-r-and-litsearchr/08-identifying-keywords"
+    - Selecting terms: "https://rootsandberries.github.io/irm-r-and-litsearchr/09-selecting-terms"
+    - Grouping keywords: "https://rootsandberries.github.io/irm-r-and-litsearchr/10-grouping-keywords"
+    - Writing a Boolean search: "https://rootsandberries.github.io/irm-r-and-litsearchr/11-boolean-search"
   Use the litsearchr GUI: "https://elizagrames.shinyapps.io/litsearchr/"
 
 
