@@ -14,7 +14,7 @@ author: Amelia Kallaher and Sarah Young
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Set Up: "aboutme"
+  Set Up: "https://rootsandberries.github.io/irm-r-and-litsearchr/set-up"
   Lessons:
     - Introduction to RStudio: "https://rootsandberries.github.io/irm-r-and-litsearchr/01-introduction-to-rstudio"
     - Create Working Directory: "https://rootsandberries.github.io/irm-r-and-litsearchr/02-create-working-directory"
