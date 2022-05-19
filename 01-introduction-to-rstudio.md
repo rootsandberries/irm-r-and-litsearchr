@@ -12,6 +12,9 @@ When using R, you have a console window with a blinking cursor, and you type in 
 ## What is RStudio?
 RStudio is a user interface for working with R. You can use R without RStudio, but it’s much more limiting. RStudio makes it easier to import datasets, create and write scripts, and has an autocomplete activated for functions and variables you’ve already assigned. RStudio makes using R much more effective, and is also free and open source.
 
+## What is RStudio Cloud?
+RStudio Cloud is a lightweight, cloud-based solution that allows you to share teach and learn data science online. Unlike RStudio you can analyze your data using the RStudio IDE, directly from your internet browser. There is nothing to configure and no dedicated hardware, installation or annual purchase contract required. The RStudio IDE is a set of integrated tools designed to help you be more productive with R and Python. It includes a console, syntax-highlighting editor that supports direct code execution, and a variety of robust tools for plotting, viewing history, debugging and managing your workspace. Individual users, instructors and students only need a browser to do, share, teach and learn data science.
+
 ## RStudio Console
 After you install and open RStudio, you will see a window with four panes. You may need to open the top left "Source" pane by clicking on the maximize icon.
 
@@ -33,10 +36,12 @@ When you type a command at the prompt and hit Enter, your computer executes the 
 
 Code that you type directly in the console will not be saved, though it is available in the History Pane. 
 
+If you're working in RStudio Cloud you'll use the Console pane at first. If you're working in RStudio you'll use the Script pane first.
+
 ## Script Pane (top left)
 This is sort of like a text editor, or a place to write and save code. You then tell RStudio to run the line of code, or multiple lines of code, and you can see it appear in the console as it is running. Then save the script as a .R file for future use, or to share with others. 
 
-To execute code you use Ctrl+Enter (Cmd+Enter on a Mac). To create a new .R script file, use File > New File > R Script, and to open a script, use File > Open, or Recent Files to see files you’ve worked with recently. Save the R script by going to File > Save.
+To execute code in rStudio you use Ctrl+Enter (Cmd+Enter on a Mac) and for RStudio Cloud you use Enter. In RStudio, to create a new .R script file, use File > New File > R Script, and to open a script, use File > Open, or Recent Files to see files you’ve worked with recently. Save the R script by going to File > Save. In RStudio Cloud, type in `file.create("my_first_script.R")` in the console pane and hit Enter. The new file will appear in your Navigation pane. Click on it to open it up in your Script pane.
 
 If you type an incomplete command and you execute it, R will display a `+` prompt, which means R is waiting for you to type the rest of your command. Either finish the command or hit Escape to start over:
 
@@ -135,8 +140,8 @@ Now that you feel more comfortable typing in commands let's practice some more. 
 > We'll cover these in later episodes of this lesson.
 > 
 > 1. Create a new .R file called `my_first_script.R`.
-> 2. Type in `file.create("my_first_script.R")` in the script pane.
-> 3. Write each line of the following code separately in the script pane and identify where the results are found. To execute code you use Ctrl+Enter (Cmd+Enter on a Mac). 
+> 2. Type in `file.create("my_first_script.R")` in the console pane in RStudio Cloud and in the script pane in RStudio.
+> 3. Write each line of the following code separately in the console pane in RStudio Cloud and in the script pane in RStudio and identify where the results are found. To execute code in RStudio you use Ctrl+Enter (Cmd+Enter on a Mac) and the execute code in RStudio Cloud you use Enter. 
 >
 > ~~~
 > ## to create a new .R file
