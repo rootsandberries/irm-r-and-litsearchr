@@ -18,7 +18,9 @@ RStudio Cloud is a lightweight, cloud-based solution that allows you to share te
 ## RStudio Console
 After you install and open RStudio, you will see a window with four panes. You may need to open the top left "Source" pane by clicking on the maximize icon.
 
-![](../fig/RStudio_capture.PNG)
+![](../fig/RStudio_capture.PNG)!
+
+After you create an account with RStudio Cloud, you will need to create a `New Project`.
 
 ## Console Pane (bottom left)
 If you were just using the basic R interface, without RStudio, this is all you would see. You use this to type in a command and press enter to immediately evaluate it. It includes a > symbol and a blinking cursor prompting you to enter some code. You can type R code into the bottom line of the RStudio console pane and then click `Enter` to run it. The code you type is called a command, because it will command your computer to do something for you. The line you type it into is called the `command line`.
@@ -41,7 +43,7 @@ If you're working in RStudio Cloud you'll use the Console pane at first. If you'
 ## Script Pane (top left)
 This is sort of like a text editor, or a place to write and save code. You then tell RStudio to run the line of code, or multiple lines of code, and you can see it appear in the console as it is running. Then save the script as a .R file for future use, or to share with others. 
 
-To execute code in rStudio you use Ctrl+Enter (Cmd+Enter on a Mac) and for RStudio Cloud you use Enter. In RStudio, to create a new .R script file, use File > New File > R Script, and to open a script, use File > Open, or Recent Files to see files you’ve worked with recently. Save the R script by going to File > Save. In RStudio Cloud, type in `file.create("my_first_script.R")` in the console pane and hit Enter. The new file will appear in your Navigation pane. Click on it to open it up in your Script pane.
+To execute code in RStudio you use Ctrl+Enter (Cmd+Enter on a Mac) and for RStudio Cloud you use Enter. In RStudio, to create a new .R script file, use File > New File > R Script, and to open a script, use File > Open, or Recent Files to see files you’ve worked with recently. Save the R script by going to File > Save. In RStudio Cloud, type in `file.create("my_first_script.R")` in the console pane and hit Enter. The new file will appear in your Navigation pane. Click on it to open it up in your Script pane.
 
 If you type an incomplete command and you execute it, R will display a `+` prompt, which means R is waiting for you to type the rest of your command. Either finish the command or hit Escape to start over:
 
