@@ -39,7 +39,7 @@ If for some reason your working directory is not set up correctly you can change
 >
 > Create a folder on your desktop called `lc_litsearchr`. Add your three new folders, `data`, `anderson_naive`, and `search_results` to the `lc_litsearchr` folder.
 >
-> If you need to download the files they can be found in [Data](https://carpentries-incubator.github.io/lc-litsearchr/) 
+> If you need to download the files they can be found in [Data](https://figshare.com/articles/dataset/litsearchr_lc_files/12753506/2) 
 >
 {: .callout}
 
