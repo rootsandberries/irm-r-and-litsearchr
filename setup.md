@@ -10,6 +10,10 @@ For the purposes of today's workshop, we'll be using RStudio Cloud. This is a fr
 
 If you'd like to run R and RStudio locally on your own machine, you need to install **R** and **RStudio** separately. R is the underlying statistical computing environment, but using R alone is no fun. RStudio is a graphical integrated development environment (IDE) that makes using R much easier and more interactive. You need to install R before you install RStudio. Once installed, because RStudio is an IDE, RStudio will run R in the background.  You do not need to run it separately.
 
+## Data
+
+To download the files needed for this lesson, they can be found [here](https://figshare.com/articles/dataset/litsearchr_lc_files/12753506/2). You can save the files to your desktop.
+
 ### Windows
 
 #### If you already have R and RStudio installed
