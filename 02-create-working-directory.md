@@ -15,7 +15,7 @@ For this lesson we'll create a new project.
 
 If for some reason your working directory is not set up correctly you can change it in the RStudio interface by navigating in the file browser where your working directory should be, and clicking on the blue gear icon "More", and select "Set As Working Directory". 
 
-> ## Make sure the files you downloaded from the zip folder are organized correctly before continuing on. If you need to download the files they can be found in [Data](https://figshare.com/articles/dataset/litsearchr_lc_files/12753506/2). You can save the files to your desktop. 
+> ## Make sure the files you downloaded from the zip folder are organized correctly before continuing on. If you need to download the files they can be found [here](https://figshare.com/articles/dataset/litsearchr_lc_files/12753506/2). You can save the files to your desktop. 
 >
 > If you need to reorganize your files the instructions are below:
 >
