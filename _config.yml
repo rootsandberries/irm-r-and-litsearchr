@@ -28,6 +28,7 @@ navbar-links:
     - Selecting terms: "https://rootsandberries.github.io/irm-r-and-litsearchr/09-selecting-terms"
     - Grouping keywords: "https://rootsandberries.github.io/irm-r-and-litsearchr/10-grouping-keywords"
     - Writing a Boolean search: "https://rootsandberries.github.io/irm-r-and-litsearchr/11-boolean-search"
+    - Doing more with litsearchr: ""
   Use the litsearchr GUI: "https://elizagrames.shinyapps.io/litsearchr/"
 
 
