@@ -1,12 +1,12 @@
 ---
 title: Setup instructions
 ---
-## RStudio Cloud
+## Today's Workshop: RStudio Cloud
 
 For the purposes of today's workshop, we'll be using RStudio Cloud. This is a free browser-based application that allows you to run R and RStudio without downloading any software to your computer. To get set up with RStudio Cloud, visit [the RStudio Cloud website](https://rstudio.cloud/) and click on Get Started for Free. Click on Sign Up to create a free RStudio account. Once you've created your account, log in to get started.
 
 
-## Using R and RStudio on your own computer
+## Optional: Using R and RStudio on your own computer
 
 If you'd like to run R and RStudio locally on your own machine, you need to install **R** and **RStudio** separately. R is the underlying statistical computing environment, but using R alone is no fun. RStudio is a graphical integrated development environment (IDE) that makes using R much easier and more interactive. You need to install R before you install RStudio. Once installed, because RStudio is an IDE, RStudio will run R in the background.  You do not need to run it separately.
 
