@@ -31,3 +31,9 @@ We would like to acknowledge and thank Clarke Lakovakis for allowing us to use h
 ## Link to Workshop Slides
 
 [https://bit.ly/IRM_litsearchr_slides](https://bit.ly/IRM_litsearchr_slides)
+
+## Link to Post-workshop Survey
+
+[https://bit.ly/IRM_litsearchr_survey[(https://bit.ly/IRM_litsearchr_survey)
+
+
