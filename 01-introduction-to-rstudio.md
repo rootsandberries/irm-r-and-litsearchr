@@ -122,18 +122,6 @@ This pane has multiple functions:
 * Help: Read help pages for R functions
 * Viewer: View local web content
 
-> ## Challenge
-> Take a few minutes to practice executing commands and typing in the script pane with some basic arithmetic.  
->
-{: .challenge}
->
->>## Solution
->>1. To create object y. Answer: type `y <- 5`
->>2. To multiply. Answer: type `2 * 4`
->>3. To subtract. Answer: type `8 - 1`
->>4. To divide. Answer: type `6 / (3 - 1)`
->{: .solution}
-{: .challenge}
 
 Now that you feel more comfortable typing in commands let's practice some more. Work through the following exercise:
 
