@@ -12,7 +12,7 @@ If you'd like to run R and RStudio locally on your own machine, you need to inst
 
 ## Data
 
-To download the files needed for this lesson, they can be found [here](https://figshare.com/articles/dataset/litsearchr_lc_files/12753506/2). You can save the files to your desktop.
+To download the files needed for this lesson, they can be found [here](https://cmu.box.com/s/1hseszrdcjhhktipiypvvwf90ioriq5r). You can save the files to your desktop in the folder call lc_litsearchr.
 
 ### Windows
 
