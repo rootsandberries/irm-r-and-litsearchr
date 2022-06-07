@@ -15,22 +15,20 @@ For this lesson we'll create a new project.
 
 If for some reason your working directory is not set up correctly you can change it in the RStudio interface by navigating in the file browser where your working directory should be, and clicking on the blue gear icon "More", and select "Set As Working Directory". 
 
-> ### Make sure the files you downloaded from the zip folder are organized correctly before continuing on. If you need to download the files they can be found [here](https://cmu.box.com/s/1hseszrdcjhhktipiypvvwf90ioriq5r). You can save the files to your desktop in the folder called lc_litsearchr.
+> ### Make sure the files you downloaded are organized correctly before continuing on. If you need to download the files they can be found [here](https://cmu.box.com/s/1hseszrdcjhhktipiypvvwf90ioriq5r). You can save the files to your desktop in the folder called lc_litsearchr.
 >
 > If you need to reorganize your files the instructions are below:
 >
-> Create three folders on your computer desktop and name them `data`, `anderson_naive`, and `search_results`
+> Create one folder on your computer desktop called lc_litsearchr. Inside of that folder should be two folders called `data` and `anderson_naive`.
 >  
-> Add the following files you downloaded at the beginning of the lesson to the `data `folder. 
+> The following files should be in the `data `folder. 
 > * anderson_refs.csv
 > * suggested_keywords_grouped
 >
-> Add the three downloaded files from the anderson_naive zip folder to the `anderson_naive` folder.
+> The following files should be in the `anderson_naive` folder.
 > * MEDLINE_1-500
 > * MEDLINE_501-603
 > * PsycINFO
->
-> Create a folder on your desktop called `lc_litsearchr`. Add your three new folders, `data`, `anderson_naive`, and `search_results` to the `lc_litsearchr` folder.
 >
 {: .callout}
 
