@@ -18,8 +18,6 @@ RStudio Cloud is a lightweight, cloud-based solution that allows you to share te
 ## RStudio Console
 After you install and open RStudio, you will see a window with four panes. You may need to open the top left "Source" pane by clicking on the maximize icon.
 
-![](../fig/RStudio_capture.PNG)
-
 After you create an account with RStudio Cloud, you will need to create a `New Project`.
 
 ## Console Pane (bottom left)
