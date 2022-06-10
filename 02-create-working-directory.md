@@ -31,7 +31,7 @@ We've already created a new project in RStudio Cloud. Let's add our practice fil
 {: .callout}
 
 ## Set your working directory
-The **working directory** is the location on your computer R will use for reading and writing files. Use `getwd()` to print your current working directory to the console. Use `setwd()` to set your working directory. This is particularly important if you are working in the deskstop version of RStudio.
+When you are working in the desktop version of RStudio, the **working directory** is the location on your computer R will use for reading and writing files. Use `getwd()` to print your current working directory to the console. Use `setwd()` to set your working directory. 
 
 ~~~
 # Determine which directory your R session is using as its current working directory using getwd().
@@ -43,7 +43,7 @@ To set your new working directory go to:
 1. Under `Session` at the top
 2. Scroll down to `Set Working Directory`
 3. Select `Choose Directory`
-4. Choose the folder `lc_litsearchr` on your desktop
+4. Find the directory (or folder) in which you plan to work, call files from and store files to.
 
 
 ## Organize your working directory
