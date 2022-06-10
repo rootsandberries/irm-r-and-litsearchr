@@ -3,17 +3,15 @@ title: "Create a Working Directory"
 ---
 
 ## Getting set up
-You will need to create and set up your working directory in RStudio for this lesson. The working directory is very important, as it is the place where you will store, save, and retrieve your files. RStudio projects makes it easy to set up your working directory.
+You will need to create and set up your working directory in RStudio Cloud for this lesson. The working directory is very important, as it is the place where you will store, save, and retrieve your files. RStudio projects makes it easy to set up your working directory.
 
-For this lesson we'll create a new project.
+We've already created a new project in RStudio Cloud. Let's add our practice files and folders to the project. 
 
-* Under the `File` menu, click on `New project`, choose `New directory`, then `New project`
+* In the Navigation pane Files tab click on Upload. Navigate to the zipped or compressed lc_litsearchr folder on your computer. If you haven't downloaded it, this can be found [here](https://cmu.box.com/s/1hseszrdcjhhktipiypvvwf90ioriq5r). 
 
-* Enter a name for this new project `library-carpentry`, and choose your desktop as the location. 
+* Click OK.
 
-* Click on `Create project`
-
-If for some reason your working directory is not set up correctly you can change it in the RStudio interface by navigating in the file browser where your working directory should be, and clicking on the blue gear icon "More", and select "Set As Working Directory". 
+* The lc_litsearchr folder and the files it contains should now be visible in your Navigation pane. 
 
 > ### Make sure the files you downloaded are organized correctly before continuing on. If you need to download the files they can be found [here](https://cmu.box.com/s/1hseszrdcjhhktipiypvvwf90ioriq5r). You can save the files to your desktop in the folder called lc_litsearchr.
 >
@@ -33,7 +31,7 @@ If for some reason your working directory is not set up correctly you can change
 {: .callout}
 
 ## Set your working directory
-The **working directory** is the location on your computer R will use for reading and writing files. Use `getwd()` to print your current working directory to the console. Use `setwd()` to set your working directory. 
+The **working directory** is the location on your computer R will use for reading and writing files. Use `getwd()` to print your current working directory to the console. Use `setwd()` to set your working directory. This is particularly important if you are working in the deskstop version of RStudio.
 
 ~~~
 # Determine which directory your R session is using as its current working directory using getwd().
