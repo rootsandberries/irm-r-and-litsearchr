@@ -36,8 +36,6 @@ In order to use your data in R, you must import it and turn it into an R object.
 {: .callout}
 
 ## Opening a .csv file in RStudio Cloud
-First, upload the downloaded zip file to the RStudio Cloud server. Click on the `Upload` button in the Navigation Pane. Click `Choose File` and locate the zip folder your downloaded for this lesson. Click `OK`. You should now see the folder `lc_litsearchr` within your project folders and files.
-
 To open a .csv file you have two options. You can naviagte to the file `anderson_refs.csv` by clicking on `lc_litsearchr` and then opening the `data` folder within. Once you have clicked on the `data` folder to open it, click on the `anderson_refs.csv` file and select `Import Dataset`. You may need to click `OK` to download some additional packages (those will run in the bottom console). Once you see a preview of the dataset click on `Import` and the csv file will appear in both your Script Pane and Eniroment Pane as a new object called `anderson_refs`.
 
 The other option is to use the R landuage to read in the data and assign the data frame to a new variable.
