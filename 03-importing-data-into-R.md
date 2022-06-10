@@ -42,7 +42,7 @@ The other option is to use the R landuage to read in the data and assign the dat
 
 ~~~
 ## import the data
-anderson_refs <- read_csv("lc_litsearchr/data/anderson_refs.csv")
+anderson_refs <- read.csv("lc_litsearchr/data/anderson_refs.csv")
 ~~~
 {: .language-r}
 
